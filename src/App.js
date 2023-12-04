@@ -18,7 +18,7 @@ function App() {
             }
             <Route path="/mensagens" element={<TelaCadastroMensagem />} />
             <Route path="/usuarios" element={<TelaCadastroUsuario />} />
-            <Route path="/" element={<TelaMenu />} />
+            <Route path="/FrontendProva2BimLP2/" element={<TelaMenu />} />
             {
               
             }
