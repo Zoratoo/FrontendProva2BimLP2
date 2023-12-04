@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "lockfileVersion": 3,
   "requires": true,
+  "homepage": "https://zoratoo.github.io/FrontendProva2BimLP2/",
   "packages": {
     "": {
       "name": "frontend",
